@@ -1,0 +1,42 @@
+body {
+    background-color: #F4F1DE;
+}
+.div-descricao {
+    background-color:#F2CC8F;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: #E07A5F;
+    width: 60%;
+    height: relative;
+    box-shadow: 2px 2px 5px #645e5e;
+    transition: all 0.3s ease;
+}
+.div-descricao:hover {
+    color: #F2CC8F;
+    background-color:#E07A5F ;
+    transform: scale(1.1);
+}
+.div-ada {
+    background-color:#F2CC8F;
+    width: 10%;
+    height: 25px;
+    position: relative;
+    bottom: -40px;
+    box-shadow: 2px 2px 5px #645e5e;
+    transition: all 0.3s ease;
+    
+}
+.div-ada:hover {
+    color: #F2CC8F;
+    background-color:#E07A5F ;
+    transform: scale(1.1);
+}
+a {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: #E07A5F;
+    text-decoration: none;
+}
+a:hover {
+    color: #F2CC8F;
+}
