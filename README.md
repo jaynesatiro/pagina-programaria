@@ -1,35 +1,19 @@
-#Projeto do Curso de HTML, CSS e JavaScript
-📝 Descrição
-Este repositório contém o código de uma página web desenvolvida como parte do curso de HTML, CSS e JavaScript oferecido pelo Programaria, uma organização que apoia mulheres na área de tecnologia e programação.
+# Página Programaria - Projeto do Curso de HTML, CSS e JavaScript
 
-O projeto foi criado por Jayne Satiro como exercício prático durante o curso, com o objetivo de aprender e aplicar conceitos fundamentais de desenvolvimento web front-end.
+## 📝 Descrição
+Este repositório contém o código de uma página web desenvolvida como parte do curso de **HTML, CSS e JavaScript** oferecido pelo [Programaria](https://www.programaria.org/), uma organização que apoia mulheres na área de tecnologia e programação.
 
-🛠 Tecnologias Utilizadas
-HTML5 - Estruturação da página
+O projeto foi criado por [Jayne Satiro](https://github.com/jaynesatiro) como exercício prático durante o curso, com o objetivo de aprender e aplicar conceitos fundamentais de desenvolvimento web front-end.
 
-CSS3 - Estilização e design responsivo
+## 🛠 Tecnologias Utilizadas
+- **HTML5** - Estruturação da página
+- **CSS3** - Estilização e design responsivo
+- **JavaScript** - Interatividade e funcionalidades dinâmicas
 
-JavaScript - Interatividade e funcionalidades dinâmicas
-
-🚀 Como Visualizar o Projeto
-Você pode acessar a página diretamente através do GitHub Pages:
-🔗 Link para a página
+## 🚀 Como Visualizar o Projeto
+Você pode acessar a página diretamente através do GitHub Pages:  
+🔗 [Link para a página](https://jaynesatiro.github.io/pagina-programaria/)
 
 Ou clonar o repositório localmente:
-
-bash
+```bash
 git clone https://github.com/jaynesatiro/pagina-programaria.git
-Depois, basta abrir o arquivo index.html no seu navegador favorito.
-
-📚 Sobre o Programaria
-O Programaria é uma iniciativa brasileira que tem como missão empoderar mulheres através da tecnologia, oferecendo cursos, workshops e comunidades de apoio para mulheres que desejam ingressar ou se desenvolver na área de programação.
-
-🙌 Agradecimentos
-À equipe do Programaria pelo curso e pelo apoio às mulheres na tecnologia
-
-Às colegas de turma pela colaboração e aprendizado mútuo
-
-À comunidade de tecnologia que incentiva a diversidade e inclusão
-
-📄 Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
