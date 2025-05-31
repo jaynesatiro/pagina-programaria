@@ -40,14 +40,6 @@ h1:hover {
     height: relative;
     box-shadow: 2px 2px 5px #645e5e;
     border:40px solid #F2CC8F;
-    transition: all 0.5s ease;
-}
-
-.primeiro-paragrafo:hover {
-    border:40px solid #472D30;
-    background-color: #472D30;
-    color:#F2CC8F;
-    transform: scale(1);
 }
 
 a {
